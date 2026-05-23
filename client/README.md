@@ -67,12 +67,6 @@ Built using the MERN stack with Socket.IO for realtime communication.
 
 ---
 
-# Project Structure
-
-```bash
-client/
-server/
-
 # Screenshots
 
 ## Home Page
@@ -102,3 +96,9 @@ server/
 ## Notifications
 
 <img src="client/public/screenshots/Notifications.png" width="100%"/>
+
+# Project Structure
+
+```bash
+client/
+server/
