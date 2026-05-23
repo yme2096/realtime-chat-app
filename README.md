@@ -109,6 +109,36 @@ Open http://localhost
 2. Whitelist `0.0.0.0/0` for Render
 3. Copy connection string to `MONGO_URI`
 
+# Screenshots
+
+## Home Page
+
+![](./client/public/screenshots/home.png)
+
+---
+
+## Audio Call
+
+![](./client/public/screenshots/audio.png)
+
+---
+
+## Video Call
+
+![](./client/public/screenshots/video.png)
+
+---
+
+## Voice Message
+
+![](./client/public/screenshots/voice.png)
+
+---
+
+## Notifications
+
+![](./client/public/screenshots/notification.png)
+
 ## API Endpoints
 
 | Method | Endpoint | Description |
