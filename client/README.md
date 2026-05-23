@@ -72,3 +72,33 @@ Built using the MERN stack with Socket.IO for realtime communication.
 ```bash
 client/
 server/
+
+# Screenshots
+
+## Home Page
+
+![Home Page](./client/public/screenshots/Home-Page.png)
+
+---
+
+## Audio Call
+
+![Audio Call](./client/public/screenshots/Audio-call.png)
+
+---
+
+## Video Call
+
+![Video Call](./client/public/screenshots/Video-call.png)
+
+---
+
+## Voice Message
+
+![Voice Message](./client/public/screenshots/Voice-message.png)
+
+---
+
+## Notifications
+
+![Notifications](./client/public/screenshots/Notifications.png)
