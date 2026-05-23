@@ -72,31 +72,31 @@ Built using the MERN stack with Socket.IO for realtime communication.
 
 ## Home Page
 
-<img src="./client/public/screenshots/Home-Page.png" width="100%"/>
+![](client/public/screenshots/Home-Page.png)
 
 ---
 
 ## Audio Call
 
-<img src="./client/public/screenshots/Audio-call.png" width="100%"/>
+![](client/public/screenshots/Audio-call.png)
 
 ---
 
 ## Video Call
 
-<img src="./client/public/screenshots/Video-call.png" width="100%"/>
+![](client/public/screenshots/Video-call.png)
 
 ---
 
 ## Voice Message
 
-<img src="./client/public/screenshots/Voice-message.png" width="100%"/>
+![](client/public/screenshots/Voice-message.png)
 
 ---
 
 ## Notifications
 
-<img src="./client/public/screenshots/Notifications.png" width="100%"/>
+![](client/public/screenshots/Notifications.png)
 
 # Project Structure
 
