@@ -77,28 +77,28 @@ server/
 
 ## Home Page
 
-![Home Page](./client/public/screenshots/Home-Page.png)
+<img src="client/public/screenshots/Home-Page.png" width="100%"/>
 
 ---
 
 ## Audio Call
 
-![Audio Call](./client/public/screenshots/Audio-call.png)
+<img src="client/public/screenshots/Audio-call.png" width="100%"/>
 
 ---
 
 ## Video Call
 
-![Video Call](./client/public/screenshots/Video-call.png)
+<img src="client/public/screenshots/Video-call.png" width="100%"/>
 
 ---
 
 ## Voice Message
 
-![Voice Message](./client/public/screenshots/Voice-message.png)
+<img src="client/public/screenshots/Voice-message.png" width="100%"/>
 
 ---
 
 ## Notifications
 
-![Notifications](./client/public/screenshots/Notifications.png)
+<img src="client/public/screenshots/Notifications.png" width="100%"/>
