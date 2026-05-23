@@ -66,36 +66,37 @@ Built using the MERN stack with Socket.IO for realtime communication.
 - Multer
 
 ---
+---
 
 # Screenshots
 
 ## Home Page
 
-<img src="client/public/screenshots/Home-Page.png" width="100%"/>
+<img src="./client/public/screenshots/Home-Page.png" width="100%"/>
 
 ---
 
 ## Audio Call
 
-<img src="client/public/screenshots/Audio-call.png" width="100%"/>
+<img src="./client/public/screenshots/Audio-call.png" width="100%"/>
 
 ---
 
 ## Video Call
 
-<img src="client/public/screenshots/Video-call.png" width="100%"/>
+<img src="./client/public/screenshots/Video-call.png" width="100%"/>
 
 ---
 
 ## Voice Message
 
-<img src="client/public/screenshots/Voice-message.png" width="100%"/>
+<img src="./client/public/screenshots/Voice-message.png" width="100%"/>
 
 ---
 
 ## Notifications
 
-<img src="client/public/screenshots/Notifications.png" width="100%"/>
+<img src="./client/public/screenshots/Notifications.png" width="100%"/>
 
 # Project Structure
 
