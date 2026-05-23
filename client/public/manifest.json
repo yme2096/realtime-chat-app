@@ -1,0 +1,26 @@
+{
+  "name": "ChatApp",
+  "short_name": "ChatApp",
+  "description": "Real-time chat application",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "communication"],
+  "shortcuts": [
+    {
+      "name": "Open Chat",
+      "url": "/",
+      "description": "Open your conversations"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+:root {
+
+  --bg-primary: #030712;
+  --bg-secondary: #111827;
+  --bg-card: #1f2937;
+
+  --text-primary: #ffffff;
+  --text-secondary: #9ca3af;
+
+  --accent: #6366f1;
+
+}
+
+/* LIGHT */
+.light {
+
+  --bg-primary: #f3f4f6;
+  --bg-secondary: #ffffff;
+  --bg-card: #e5e7eb;
+
+  --text-primary: #111827;
+  --text-secondary: #4b5563;
+
+  --accent: #2563eb;
+
+}
+
+/* WHATSAPP */
+.whatsapp {
+
+  --bg-primary: #0b141a;
+  --bg-secondary: #111b21;
+  --bg-card: #202c33;
+
+  --text-primary: #e9edef;
+  --text-secondary: #8696a0;
+
+  --accent: #00a884;
+
+}
+
+/* DISCORD */
+.discord {
+
+  --bg-primary: #1e1f22;
+  --bg-secondary: #2b2d31;
+  --bg-card: #313338;
+
+  --text-primary: #f2f3f5;
+  --text-secondary: #b5bac1;
+
+  --accent: #5865f2;
+
+}

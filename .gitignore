@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+
+# Uploads
+uploads/
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
